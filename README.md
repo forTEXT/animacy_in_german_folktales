@@ -1,4 +1,4 @@
-# Animacy_in_German_Folktales
+# Animacy in German Folktales
 
 This repository contains the reproducible code examples and analyses for the paper *"Animacy in German Folktales"* submitted in proceedings of CHR 2024: Computational Humanities Research Conference, 2024, Aarhus, Denmark.
 
