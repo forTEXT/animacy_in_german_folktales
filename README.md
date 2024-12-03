@@ -16,8 +16,8 @@ This repository contains the reproducible code examples and analyses for the pap
 - **[01 Preprocessing](animacy_in_german_folktales_01_preprocessing.ipynb)**
 This notebook handles data preprocessing, including Processing CATMA exports and Calculating Inter-Annotator Agreement.
 
-- **[02 Word Embedding Models](TODO: Link Notebook)**
-TODO: Add description
+- **[02 Word Embedding Models](animacy_in_german_folktales_02_word_embedding_model.ipynb)**
+Creating a Word2Vec model from the d-RomaneRomantik corpus (d-RoRo: Schumacher, M., Uglanova, I., & Gius, E. (2022). d-Romane-Romantik (d-RoRo) (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7223544)
 
 - **[03 Classifier](animacy_in_german_folktales_03_classification.ipynb)**
 Training and Validation of a classifier to identify animate entities in texts.
