@@ -44,6 +44,6 @@ Evaluation of NER models applied to Grimm's fairy tales.
    ```
 3. Install required dependencies via the included *requirements.txt*. (For example using pip):
    ```
-   pip install -r rquirements.txt
+   pip install -r requirements.txt
    ```
 4. Now you can run the notebooks. Further instructions if you want to reproduce the workflow with your own data can be found in the notebooks.  
