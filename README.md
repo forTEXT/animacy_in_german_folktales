@@ -28,7 +28,7 @@ Application of the trained animacy classifier to all Grimm's fairy tales.
 - **[05 Comparison Animacy Classification, NER, and POS](animacy_in_german_folktales_05_comparison_NER_POS.ipynb)**
 A comparative analysis of animacy classification with Named Entity Recognition (NER) and Part-of-Speech (POS) tagging.
 
-- **[06 Grimm NER+Evaluation](TODO: Link Notebook)**
+- **[06 Grimm NER+Evaluation](animacy_in_german_folktales_06_grimm_NER_and_evaluation.ipynb)**
 Evaluation of NER models applied to Grimm's fairy tales. 
 
 
